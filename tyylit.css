@@ -1,0 +1,26 @@
+#otsikko {
+    color: black;
+    font-size: 40px;
+    text-decoration: underline;
+}
+
+body {
+    background-color: lavenderblush;
+}
+
+h2 {
+    color: palevioletred;
+}
+
+h3 {
+    color: hotpink;
+}
+
+p {
+    color: darkblue;
+    
+}
+
+li {
+    color: darkblue;
+}
